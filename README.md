@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elenamatay
-- 👀 I’m interested in Data & AI
-- 🌱 I’m currently learning about Data & AI on Google Cloud Platform
-- 💞️ I’m looking to collaborate on things that inspire me
+- 👀 Interested in Data & AI
+- 🌱 Currently learning about Data & AI on Google Cloud Platform
+- 💞️ Looking to collaborate on things that inspire me
 - 📫 How to reach me: elenamatay@gmail.com
 
 <!---
