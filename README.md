@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elenamatay
 - 👀 Interested in Data & AI
-- 🌱 Currently working and learning about Data & AI @ Google Cloud
+- 🌱 Currently ~~working~~ learning about Data & AI @ Google Cloud
 - 💞️ Looking to collaborate on things that inspire me
 - 📫 How to reach me: elenamatay@gmail.com and https://www.linkedin.com/in/elena-mata-yandiola/ 
 
