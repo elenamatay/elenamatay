@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elenamatay
 - 👀 Interested in Data & AI
-- 🌱 Currently learning about Data & AI on Google Cloud Platform
+- 🌱 Currently working and learning about Data & AI @ Google Cloud
 - 💞️ Looking to collaborate on things that inspire me
-- 📫 How to reach me: elenamatay@gmail.com
+- 📫 How to reach me: elenamatay@gmail.com and https://www.linkedin.com/in/elena-mata-yandiola/ 
 
 <!---
 elenamatay/elenamatay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
